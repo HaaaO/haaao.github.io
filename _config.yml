@@ -1,6 +1,6 @@
-title: Fred Hohman
-tagline: Research Scientist at Apple
-url: http://fredhohman.com
+title: Jonathan Zhonghao Shi
+tagline: Human-Centered AI Researcher & Engineer
+url: https://haaao.github.io
 baseurl: ""
 # gems: [jekyll-paginate]
 # paginate: 5
@@ -14,9 +14,9 @@ sass:
   style: compressed
 
 author:
-  name: Fred Hohman
-  url: http://fredhohman.com
-  email: fred.hohman@gmail.com
+  name: Jonathan Zhonghao Shi
+  url: https://haaao.github.io
+  email: zhonghas@usc.edu
 
 markdown: kramdown
 highlighter: rouge
@@ -24,7 +24,7 @@ kramdown:
   input: GFM
   syntax_highlighter_opts:
     default_lang: html
-    css_class: 'syntax'
+    css_class: "syntax"
 
 excerpt_separator: <!--more-->
 

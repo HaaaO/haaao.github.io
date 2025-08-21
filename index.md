@@ -8,7 +8,7 @@ title: Home
 		<div id="intro-image-wrapper">
 			<img id="intro-image" src="/images/portrait.jpg"></div>
 		<div id="intro-title-text-wrapper">
-			<h1 id="intro-title">Hi, I'm Fred Hohman</h1>
+			<h1 id="intro-title">Hi, I'm Zhonghao Jonathan Shi</h1>
 			<div id="intro-subtitle">I'm a Research Scientist at Apple</div>
 			<div id="intro-title-socials">
 				{% for link in site.data.social-links %}
@@ -102,14 +102,15 @@ title: Home
 	{% assign sortedArticles = site.data.articles | where: "featured", true %}
 	{% assign ia = site.categories.papers | where:"permalink", "papers/interactive-articles" %}
 
-	{% assign feature = sortedArticles[1] %}
-	{% include feature.html feature=feature %}
+    {% assign feature = sortedArticles[1] %}
+    {% include feature.html feature=feature %}
 
-	{% assign feature = sortedArticles[0] %}
-	{% include feature.html feature=feature %}
+    {% assign feature = sortedArticles[0] %}
+    {% include feature.html feature=feature %}
 
-	{% assign feature = ia[0] %}
-	{% include feature.html feature=feature %}
+    {% assign feature = ia[0] %}
+    {% include feature.html feature=feature %}
+
 </div>
 
 <br>
@@ -125,8 +126,6 @@ title: Home
 		{% include feature.html feature=feature %}
 	{% endfor %}
 </div>
-
-
 
 [gt]: http://www.gatech.edu "Georgia Tech"
 [cse]: http://cse.gatech.edu "Georgia Tech Computational Science and Engineering"

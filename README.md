@@ -1,4 +1,7 @@
-# Hi, I'm Fred
-I’m a Research Scientist, and this is my Jekyll website.
+# Hi, I'm Jonathan (Zhonghao)
 
-Run with  `npm run start`
+I am a human-centered AI researcher and engineer, and this is my personal website.
+
+Run with `npm run start`
+
+This website is developed based on the design from [Fred Hohman](https://fredhohman.com/).
