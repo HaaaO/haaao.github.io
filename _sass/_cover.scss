@@ -1,5 +1,5 @@
-$cover-size-scalar: 30;
-$cover-height: 13.5px;
+$cover-size-scalar: 33;
+$cover-height: 14.5px;
 $cover-width: 8.5px;
 
 .cover-wrapper {
@@ -20,9 +20,9 @@ $cover-width: 8.5px;
 }
 
 .cover {
-  height: $cover-height*$cover-size-scalar;
+  height: $cover-height * $cover-size-scalar;
   // width: $cover-width*$cover-size-scalar;
-  
+
   text-align: left;
   display: flex;
   flex-direction: column;
@@ -30,14 +30,14 @@ $cover-width: 8.5px;
 
   background-color: $black-025;
   border-radius: 1.5rem;
-  transition: all .2s ease-in-out;
+  transition: all 0.2s ease-in-out;
 }
 
 .cover:hover {
   // border: 1px solid $dark-gray;
   text-decoration: none;
   background-color: $black-05;
-  transform: scale(1.03)
+  transform: scale(1.03);
 }
 
 .cover-inner {
@@ -60,7 +60,7 @@ $cover-width: 8.5px;
   color: $title-color;
 }
 
-.cover-top a:hover{
+.cover-top a:hover {
   text-decoration: none !important;
 }
 
@@ -75,14 +75,17 @@ $cover-width: 8.5px;
 
 .cover-footer-wrapper {
   display: flex;
-  justify-content: space-between; 
+  justify-content: space-between;
 }
 
-.cover-venue, .cover-year, .cover-links {
+.cover-venue,
+.cover-year,
+.cover-links {
   font-size: 0.75rem;
 }
 
-.cover-venue, .cover-year {
+.cover-venue,
+.cover-year {
   padding-bottom: 0.5rem;
 }
 
@@ -124,8 +127,8 @@ $cover-width: 8.5px;
 
 .cover-links > .pub-misc > a {
   background-color: #ffffff;
-	padding: 0.25rem 0.55rem 0.25rem 0.55rem !important;
-	border-radius: 1rem;
+  padding: 0.25rem 0.55rem 0.25rem 0.55rem !important;
+  border-radius: 1rem;
   margin-right: 0rem;
 }
 
