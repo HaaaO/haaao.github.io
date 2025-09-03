@@ -40,10 +40,10 @@ title: Home
 
 <hr class="l-middle home-hr">
 
-<h2 class="feature-title">Featured Publications</h2>
+<h2 class="feature-title">Featured <a href="{{ site.url }}/projects">Publications</a></h2>
 
 <p class="feature-text">
-	Latest research on human-centered AI and machine learning.
+	My latest research on human-centered AI and machine learning.
 </p>
 
 <div class="cover-wrapper cover-wrapper-3-col l-page">

@@ -1,16 +1,10 @@
 ---
 layout: page
-title: Projects
+title: Research Projects
 permalink: projects/
 ---
 
-Things I do, including research, academic course projects, and miscellaneous interests.
-
-<div class="project-spacer-small"></div>
-
-## Research
-
-Research publications for fans of natural language processing, computational social science, and machine learning.
+Research publications on human-centered AI, robotics and Machine Learning,
 
 <div class="project-spacer-small"></div>
 
