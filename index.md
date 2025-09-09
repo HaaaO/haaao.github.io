@@ -33,7 +33,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		I recently defended my PhD at the <a href="https://www.usc.edu/">University of Southern California (USC)</a> where I was fortunate to be advised by Prof. <a href="https://maja-mataric.web.app/">Maja Matarić</a>. Previously I worked on trustworthy machine learning at <a href="https://www.jpmorganchase.com/">JPMorganChase</a> and studied at <a href="https://www.ucl.ac.uk/">University College London (UCL)</a>.
+		I recently defended my PhD at the <a href="https://www.usc.edu/">University of Southern California (USC)</a> where I was fortunate to be advised by Prof. <a href="https://maja-mataric.web.app/">Maja Matarić</a>. Previously I worked on trustworthy machine learning at <a href="https://www.jpmorganchase.com/about/technology/research/applied-research">JPMorganChase</a> and studied at <a href="https://www.ucl.ac.uk/">University College London (UCL)</a>.
 	</div>
 	<div style="height: 1rem"></div>
 </div>
