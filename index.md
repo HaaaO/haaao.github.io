@@ -27,7 +27,7 @@ title: Home
 	</div>
 	<div>
 		My research interest lies in human-centered AI and machine learning. My research focuses on developing and evaluating <b>socially assistive robots and AI agents</b>
-		for applications such as <b>education</b>, ensuring that these systems are not only
+		for applications such as <b>education and health</b>, ensuring that these systems are not only
 		<b>personalized</b> to each user's unique preferences and needs but also <b>aligned with</b>
 		domain values and expectations of the broader communities in which they are deployed.
 	</div>
