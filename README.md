@@ -1,4 +1,4 @@
-# Hi, I'm Jonathan (Zhonghao)
+# Hi, I'm Zhonghao
 
 I am a human-centered AI researcher and engineer, and this is my personal website.
 
