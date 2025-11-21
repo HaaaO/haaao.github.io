@@ -30,7 +30,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		I am fortunate to have the opportunity to join Prof. Ying Xu's lab at <a href="https://www.harvard.edu/">Harvard University</a> as an incoming postdoc fellow to work on AI for education.I defended my PhD at the <a href="https://www.usc.edu/">University of Southern California (USC)</a> where I was fortunate to be advised by Prof. <a href="https://maja-mataric.web.app/">Maja Matarić</a>. Previously I worked on trustworthy machine learning at <a href="https://www.jpmorganchase.com/about/technology/research/applied-research">JPMorganChase</a> and studied at <a href="https://www.ucl.ac.uk/">University College London (UCL)</a>.
+		I am fortunate to have the opportunity to join Prof. <a href="https://ying-xu.com/">Ying Xu</a>'s lab at <a href="https://www.harvard.edu/">Harvard University</a> as an incoming postdoc fellow to work on AI for education.I defended my PhD at the <a href="https://www.usc.edu/">University of Southern California (USC)</a> where I was fortunate to be advised by Prof. <a href="https://maja-mataric.web.app/">Maja Matarić</a>. Previously I worked on trustworthy machine learning at <a href="https://www.jpmorganchase.com/about/technology/research/applied-research">JPMorganChase</a> and studied at <a href="https://www.ucl.ac.uk/">University College London (UCL)</a>.
 	</div>
 	<div style="height: 1rem"></div>
 </div>
