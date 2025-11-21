@@ -26,7 +26,7 @@ title: Home
 		<!-- <a href="{{ site.url }}/everything-else"><div><i class="fa fa-list-ul icon icon-right-space"></i>Everything Else</div></a> -->
 	</div>
 	<div>
-		My research focuses on developing <b>personalized, human-centered AI</b> that adapts to each user’s unique needs to support their learning, work, and daily life. Specifically, I design and evaluate machine learning models, AI agents, and socially assistive robots for education and health, ensuring these systems are personalized, effective, and aligned with the values and expectations of the communities they serve.
+		My research focuses on developing <b>personalized, human-centered AI</b> that adapts to each user’s unique needs to support their learning, work, and daily life. Specifically, I design and evaluate <b>machine learning models, AI agents, and socially assistive robots</b> for education and health, ensuring these systems are <b>personalized, effective, and aligned</b> with the values and expectations of the communities they serve.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
