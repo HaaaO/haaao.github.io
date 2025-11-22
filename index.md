@@ -26,11 +26,11 @@ title: Home
 		<!-- <a href="{{ site.url }}/everything-else"><div><i class="fa fa-list-ul icon icon-right-space"></i>Everything Else</div></a> -->
 	</div>
 	<div>
-		My research focuses on developing <b>personalized, human-centered AI</b> that adapts to each user’s unique needs to support their learning, work, and daily life. Specifically, I design and evaluate <b>machine learning models, AI agents, and socially assistive robots</b> for education and health, ensuring these systems are <b>personalized, effective, and aligned</b> with the values and expectations of the communities they serve.
+		My research focuses on developing <b>personalized, human-centered AI</b> that supports users' unique needs to enable better learning, work, and daily life. Specifically, I design and evaluate <b>machine learning models, AI agents, and socially assistive robots</b> for education and health, ensuring these systems are <b>personalized, effective, and aligned</b> with the values and expectations of the communities they serve.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		I am fortunate to have the opportunity to join Prof. <a href="https://ying-xu.com/">Ying Xu</a>'s lab at <a href="https://www.harvard.edu/">Harvard University</a> as an incoming postdoc fellow to work on AI for education.I defended my PhD at the <a href="https://www.usc.edu/">University of Southern California (USC)</a> where I was fortunate to be advised by Prof. <a href="https://maja-mataric.web.app/">Maja Matarić</a>. Previously I worked on trustworthy machine learning at <a href="https://www.jpmorganchase.com/about/technology/research/applied-research">JPMorganChase</a> and studied at <a href="https://www.ucl.ac.uk/">University College London (UCL)</a>.
+		I am fortunate to be joining Prof. <a href="https://ying-xu.com/">Ying Xu</a>'s lab at <a href="https://www.harvard.edu/">Harvard University</a> as an incoming postdoc fellow to work on AI for education. I defended my PhD at the <a href="https://www.usc.edu/">University of Southern California (USC)</a> where I was fortunate to be advised by Prof. <a href="https://maja-mataric.web.app/">Maja Matarić</a>. Previously I worked on trustworthy machine learning at <a href="https://www.jpmorganchase.com/about/technology/research/applied-research">JPMorganChase</a> and studied at <a href="https://www.ucl.ac.uk/">University College London (UCL)</a>.
 	</div>
 	<div style="height: 1rem"></div>
 </div>
