@@ -26,7 +26,7 @@ title: Home
 		<!-- <a href="{{ site.url }}/everything-else"><div><i class="fa fa-list-ul icon icon-right-space"></i>Everything Else</div></a> -->
 	</div>
 	<div>
-		My research focuses on developing <b>personalized human-centered AI</b> that adapts to users' individual needs to support better learning, health and overall quality of life. Specifically, I develop and evaluate <b>machine learning models, AI agents, and socially assistive robots</b> for application domains including education and health.
+		My research focuses on developing <b>personalized, human-centered AI and robots</b>. More specifically, I design and evaluate <b>machine learning models, AI agents, and socially assistive robots</b> that adapt to users’ individual needs to support learning, health, and overall quality of life.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
