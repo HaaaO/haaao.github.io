@@ -9,7 +9,7 @@ title: Home
 			<img id="intro-image" src="images/headshot.png"></div>
 		<div id="intro-title-text-wrapper">
 			<h1 id="intro-title">Hi, I'm Zhonghao Shi</h1>
-			<div id="intro-subtitle">I'm an Incoming Postdoc Fellow at<br>Harvard University</div>
+			<div id="intro-subtitle">I'm a Postdoc Fellow at<br>Harvard University</div>
 			<div id="intro-title-socials">
 				{% for link in site.data.social-links %}
 					{% if link.on-homepage == true %}
@@ -30,7 +30,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		I am fortunate to be joining Prof. <a href="https://ying-xu.com/">Ying Xu</a>'s lab at <a href="https://www.harvard.edu/">Harvard University</a> as an incoming postdoc fellow to work on AI for education this December. I defended my PhD at the <a href="https://www.usc.edu/">University of Southern California (USC)</a> where I was fortunate to be advised by Prof. <a href="https://maja-mataric.web.app/">Maja Matarić</a>. Previously I worked on trustworthy machine learning at <a href="https://www.jpmorganchase.com/about/technology/research/applied-research">JPMorganChase</a> and studied at <a href="https://www.ucl.ac.uk/">University College London (UCL)</a>.
+		I am currently a postdoctoral fellow at Prof. <a href="https://ying-xu.com/">Ying Xu</a>'s child-centered AI lab at <a href="https://www.harvard.edu/">Harvard University</a>. I defended my PhD at the <a href="https://www.usc.edu/">University of Southern California (USC)</a> where I was fortunate to be advised by Prof. <a href="https://maja-mataric.web.app/">Maja Matarić</a>. Previously I worked on trustworthy machine learning at <a href="https://www.jpmorganchase.com/about/technology/research/applied-research">JPMorganChase</a> and studied at <a href="https://www.ucl.ac.uk/">University College London (UCL)</a>.
 	</div>
 	<div style="height: 1rem"></div>
 </div>
