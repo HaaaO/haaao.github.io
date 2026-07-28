@@ -26,7 +26,7 @@ title: Home
 		<!-- <a href="{{ site.url }}/everything-else"><div><i class="fa fa-list-ul icon icon-right-space"></i>Everything Else</div></a> -->
 	</div>
 	<div>
-		My research focuses on building <b>AI agents and robots</b> that can effectively understand and interact with humans. I am passionate about research topics including <b>human user simulation</b>, <b>benchmarking and post-training of multimodal (audio-visual) language models</b>, and <b>human-AI interaction</b> in application domains such as education.
+		My research focuses on <b>building machines that can truly understand humans</b>. I am passionate about research topics including human user simulation, benchmarking and post-training of multimodal (audio-visual) language models, and human-AI interaction in application domains such as education.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
