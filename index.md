@@ -26,7 +26,12 @@ title: Home
 		<!-- <a href="{{ site.url }}/everything-else"><div><i class="fa fa-list-ul icon icon-right-space"></i>Everything Else</div></a> -->
 	</div>
 	<div>
-		My research focuses on <b>building machines that can (1) truly understand humans and (2) effectively assist people and enhance their experiences</b>. I am passionate about research topics including human user simulation, benchmarking and post-training of multimodal (audio-visual) language models, and human-AI interaction in application domains such as education.
+		My research focuses on <b>building machines that can:</b>
+		<ul>
+			<li><b>accurately understand human multimodal behaviors</b></li>
+			<li><b>effectively assist people's needs</b></li>
+		</ul>
+		I am passionate about research topics including human user simulation, benchmarking and post-training of multimodal (audio-visual) language models, and human-AI interaction in application domains such as education.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
