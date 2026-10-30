@@ -32,7 +32,7 @@ title: Home
 			<li><b>effectively assist people's needs</b></li>
 			<li><b>accurately measure AI's impact on human development</b></li>
 		</ul>
-		I strive to be a full-stack human-centered AI researcher: one who applies qualitative methods to understand people's needs, designs assistive HCI/HRI interactions and user studies with mixed-methods evaluation, and develops better AI/ML models that work reliably in the real world.
+		I strive to be a <b>full-stack human-centered AI researcher</b>: one who applies qualitative methods to understand people's needs, designs assistive HCI/HRI interactions and user studies with mixed-methods evaluation, and develops better AI/ML models that work reliably in the real world.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
