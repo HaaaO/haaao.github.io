@@ -26,7 +26,7 @@ title: Home
 		<!-- <a href="{{ site.url }}/everything-else"><div><i class="fa fa-list-ul icon icon-right-space"></i>Everything Else</div></a> -->
 	</div>
 	<div>
-		I work on building <b>machines, evals, and models</b> that can:
+		I work on building <b>evals, models, and machines</b> that can:
 		<ul>
 			<li><b>reliably understand human multimodal behaviors</b></li>
 			<li><b>effectively assist people's needs</b></li>
@@ -36,7 +36,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		I am currently interested in research topics including post-training multimodal (audio-visual) language models for human perception and simulation, and benchmarking the safety and developmental impact of AI on vulnerable populations such as children.
+		I am currently actively working on research topics including <b>post-training</b> multimodal (audio-visual) language models for human perception and simulation, and <b>benchmarking</b> the safety and developmental impact of AI on humans, especially vulnerable populations such as children.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
