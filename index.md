@@ -26,13 +26,13 @@ title: Home
 		<!-- <a href="{{ site.url }}/everything-else"><div><i class="fa fa-list-ul icon icon-right-space"></i>Everything Else</div></a> -->
 	</div>
 	<div>
-		My research focuses on <b>building machines, evals, and models that can:</b>
+		I work on building <b>machines, evals, and models</b> that can:
 		<ul>
 			<li><b>reliably understand human multimodal behaviors</b></li>
 			<li><b>effectively assist people's needs</b></li>
 			<li><b>accurately measure AI's impact on human development</b></li>
 		</ul>
-		I strive to be a full-stack human-centered AI researcher: one who applies qualitative methods to understand people's needs, designs HCI/HRI interactions and user studies with mixed-methods evaluation, and develops better AI/ML models that are aligned with people's needs and work in the real world.
+		I strive to be a full-stack human-centered AI researcher: one who applies qualitative methods to understand people's needs, designs assistive HCI/HRI interactions and user studies with mixed-methods evaluation, and develops better AI/ML models that work reliably in the real world.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
