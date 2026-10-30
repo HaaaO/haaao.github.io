@@ -26,7 +26,7 @@ title: Home
 		<!-- <a href="{{ site.url }}/everything-else"><div><i class="fa fa-list-ul icon icon-right-space"></i>Everything Else</div></a> -->
 	</div>
 	<div>
-		My research focuses on <b>building machines and methods that can:</b>
+		My research focuses on <b>building machines, evals, and models that can:</b>
 		<ul>
 			<li><b>reliably understand human multimodal behaviors</b></li>
 			<li><b>effectively assist people's needs</b></li>

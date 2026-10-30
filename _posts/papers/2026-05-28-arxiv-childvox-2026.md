@@ -18,12 +18,12 @@ authors:
   - Catherine Lord
   - Daniel Messinger
   - Shrikanth Narayanan
-venue: arXiv preprint
-venue-shorthand: arXiv
+venue: Conference on Empirical Methods in Natural Language Processing
+venue-shorthand: EMNLP
 year: 2026
 url: /papers/childvox-2026
 pdf: https://arxiv.org/pdf/2605.29257
-type: preprint
+type: conference
 figure: /images/papers/childvox2026.png
 feature-title: ChildVox
 feature-description: "We introduced ChildVox, a benchmark for characterizing the diverse acoustic signals through which children communicate, following the full developmental trajectory from birth through school age."
@@ -32,10 +32,10 @@ featured: true
 feature-order: 2
 bibtex: |-
 
-  @article{feng2026childvox,
+  @inproceedings{feng2026childvox,
   title={ChildVox: A Speech, Audio, and Large Audio-Language Model Benchmark in Understanding and Characterizing Sound across Childhood},
   author={Feng, Tiantian and Xu, Anfeng and Shi, Xuan and Kommineni, Aditya and Siam, Shakhrul Iman and Micheletti, Megan and Shi, Zhonghao and Tager-Flusberg, Helen and Zhang, Mi and Perry, Lynn K. and Lord, Catherine and Messinger, Daniel and Narayanan, Shrikanth},
-  journal={arXiv preprint arXiv:2605.29257},
+  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
   year={2026}
   }
 ---
