@@ -26,16 +26,21 @@ title: Home
 		<!-- <a href="{{ site.url }}/everything-else"><div><i class="fa fa-list-ul icon icon-right-space"></i>Everything Else</div></a> -->
 	</div>
 	<div>
-		My research focuses on <b>building machines that can:</b>
+		My research focuses on <b>building machines and methods that can:</b>
 		<ul>
-			<li><b>accurately understand human multimodal behaviors</b></li>
+			<li><b>reliably understand human multimodal behaviors</b></li>
 			<li><b>effectively assist people's needs</b></li>
+			<li><b>accurately measure AI's impact on human development</b></li>
 		</ul>
-		I am passionate about research topics including human user simulation, benchmarking and post-training of multimodal (audio-visual) language models, and human-AI interaction in application domains such as education.
+		I strive to be a full-stack human-centered AI researcher: one who applies qualitative methods to understand people's needs, designs HCI/HRI interactions and user studies with mixed-methods evaluation, and develops better AI/ML models that are aligned with people's needs and work in the real world.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		I am currently a postdoctoral fellow working with Prof. <a href="https://ying-xu.com/">Ying Xu</a> at <a href="https://www.harvard.edu/">Harvard University</a>. I defended my PhD at the <a href="https://www.usc.edu/">University of Southern California (USC)</a> where I was fortunate to be advised by Prof. <a href="https://maja-mataric.web.app/">Maja Matarić</a>. Previously I worked on trustworthy machine learning at <a href="https://www.jpmorganchase.com/about/technology/research/applied-research">JPMorganChase</a> and studied at <a href="https://www.ucl.ac.uk/">University College London (UCL)</a>.
+		I am currently interested in research topics including post-training multimodal (audio-visual) language models for human perception and simulation, and benchmarking the safety and developmental impact of AI on vulnerable populations such as children.
+	</div>
+	<div style="height: 1rem"></div>
+	<div>
+		I am currently a postdoctoral fellow working with Prof. <a href="https://ying-xu.com/">Ying Xu</a> at <a href="https://www.harvard.edu/">Harvard University</a>. I defended my PhD at the <a href="https://www.usc.edu/">University of Southern California (USC)</a> where I was fortunate to be advised by Prof. <a href="https://maja-mataric.web.app/">Maja Matarić</a>. I also actively collaborate with Prof. <a href="https://viterbi.usc.edu/directory/faculty/Narayanan/Shrikanth">Shri Narayanan</a> at USC. Previously I worked on trustworthy machine learning at <a href="https://www.jpmorganchase.com/about/technology/research/applied-research">JPMorganChase</a> and studied at <a href="https://www.ucl.ac.uk/">University College London (UCL)</a>.
 	</div>
 	<div style="height: 1rem"></div>
 </div>
